@@ -1,7 +1,7 @@
 name: gamboas graphics
 favicon: null
-layout_spectrum: 0.3049809511285275
-typography_spectrum: 0.948838350828737
+layout_spectrum: 1
+typography_spectrum: 0.25064
 title: 'Creative art '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6200694649014622
-  lightness: 0.8734696884639561
-  saturation: 0.6338671108242124
-  rhythmicContrast: 0.8326860063243657
+    - '#ffffff'
+    - '#fa9000'
+    - '#1d3d67'
+    - '#778aa5'
+    - '#a4b1c3'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
