@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Creative art ]]></title>
         <description><![CDATA[Creative art ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gamboas-graphics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 22:02:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 22:02:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gamboas-graphics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88063df9-e6d3-4def-95e1-a83e185cdd72.jpg">]]></description>
+            <link>https://thegrid.ai/gamboas-graphics/converse-shoes-made-for-my-friend-devin-from-the-cult-life/index.html</link>
+            <guid isPermaLink="false">f85bc303-a78c-46ec-9728-1048ad28815c</guid>
+            <pubDate>Tue, 02 Aug 2016 22:02:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65c68756-b9c0-43b1-a9b7-8b8d53805ddd.jpg">]]></description>
-            <link>undefinedottoman-made-for-lins-home-all-sharpie/index.html</link>
+            <link>https://thegrid.ai/gamboas-graphics/ottoman-made-for-lins-home-all-sharpie/index.html</link>
             <guid isPermaLink="false">d536ea75-df81-4bad-84b0-eb3b2c613755</guid>
             <pubDate>Tue, 02 Aug 2016 22:02:22 GMT</pubDate>
         </item>
